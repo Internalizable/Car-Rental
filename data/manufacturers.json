@@ -1,0 +1,20 @@
+[
+  {
+    "name": "FERRARI LTD.",
+    "address": [
+      "Alfredo Dino Ferrari", "Maranello MO", "Italy"
+    ]
+  },
+  {
+    "name": "MERCEDES BENZ.",
+    "address": [
+      "Mercedesstraße", "Untertürkheim", "Germany"
+    ]
+  },
+  {
+    "name": "BENTLEY.",
+    "address": [
+      "Pyms Ln", "Crewe CW1 3PL", "UK"
+    ]
+  }
+]

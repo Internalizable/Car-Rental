@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Monza SP2",
+    "capacity": 4,
+    "hp": 900,
+    "cost": 34999,
+    "weight": 3924,
+    "manufacturerName": "FERRARI LTD.",
+    "type": "SPORTS",
+    "acceleration": 9.8
+  },
+  {
+    "id": 2,
+    "name": "Atego",
+    "capacity": 6,
+    "hp": 750,
+    "cost": 10999,
+    "weight": 10224,
+    "manufacturerName": "MERCEDES BENZ.",
+    "type": "TRUCK",
+    "torque": 319,
+    "emissionStandards": "EURO_VI",
+    "maxLoadWeight": 12931
+  },
+  {
+    "id": 3,
+    "name": "AJ Prestige",
+    "capacity": 12,
+    "hp": 540,
+    "cost": 40999,
+    "weight": 5224,
+    "manufacturerName": "BENTLEY.",
+    "type": "LIMOUSINE",
+    "numberOfCompartments": 4
+  }
+]
